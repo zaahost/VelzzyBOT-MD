@@ -1,19 +1,19 @@
 {
-  "contactOwner": "628817839722",
-  "ownerNumber": ["628817839722@s.whatsapp.net"],
-  "botName": "VelzzyBOT-MDོ",
-  "ownerName": "RonzzOfcོ",
+  "contactOwner": "6283857687084",
+  "ownerNumber": ["6283857687084@s.whatsapp.net"],
+  "botName": "Xyrox-MDོ",
+  "ownerName": "Jah Ofcོ",
   "pathimg": "./temp/logo.jpg",
-  "footer": "VelzzyBOT-MDོ © RonzzOfcོ",
+  "footer": "Xyrox-MDོ © Jah Ofcོ",
   "apikey": "c34aebf5f6314445fae014b8bcc3cec9f8327d96d5b429f0e0570d152c4207bf",
   "payment": {
     "gopay": {
-      "nomer": "08817839722",
-      "atas_nama": "Ronzz Ofc"
+      "nomer": "no Support",
+      "atas_nama": "Xyrox Ofc"
     },
     "dana": {
-      "nomer": "628817839722",
-      "atas_nama": "Ronzz YT"
+      "nomer": "6283857687084",
+      "atas_nama": "Xyrox YT"
     }
   }
 }
